@@ -1,6 +1,6 @@
 from InvestopediaApi import ita
 
-client = ita.Account("akeredoluadebola@yahoo.com","zeghandra")
+client = ita.Account("akeredoluadebola@yahoo.com","8]ev}6-xgW7%")
 
 print(client.get_open_trades())
 #print(client.get_current_securities())
