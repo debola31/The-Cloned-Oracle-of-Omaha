@@ -6,4 +6,6 @@ It's titled after a nickname of Warren Buffet, who's referred to as "The Oracle 
 This includes a webscraperr & AI algorithm used to generate stock market investement intuition
 and  then interfaces with a sumulated Stock markert provided by Investopedia.com
 
+Restarting work on this. 12/24/2018
+
 Project tracket link: https://1drv.ms/x/s!AoOXy2ULFDPDo7psSCsZWrYFrGUd7A
